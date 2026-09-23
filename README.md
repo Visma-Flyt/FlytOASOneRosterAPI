@@ -76,7 +76,7 @@ Responses are returned in JSON format following the OneRoster specification.
 
 Interactive documentation is available at the Swagger endpoint:
 
-🔗 **[API Documentation](https://api.oneroster.cloud.skole.visma.no/swagger/index.html)**
+🔗 **[API Documentation](https://api.oneroster.skole.visma.no/swagger/index.html)**
 
 You can explore all available endpoints and test them directly from the Swagger interface.
 
